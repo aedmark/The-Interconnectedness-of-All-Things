@@ -1,0 +1,50 @@
+**1. The Nature of Writing the Dictionary**
+
+Creating a dictionary for critical theory is presented as a somewhat strange and complicated task. It's strange because the dictionary format imposes specific requirements that aren't dictated solely by the author. It's complicated because deciding exactly which terms and concepts to include can be challenging.
+
+**2. Understanding Critical Theory's Scope**
+
+The author highlights that critical theory is characterized by "leakier borders" compared to many other academic disciplines. This is because it originally emerged as a blend of various fields like history, philosophy, psychoanalysis, and sociology. Over time, the field has become even _more_ interdisciplinary. This increasing interdisciplinarity is identified as a primary reason why a dictionary of this kind is considered necessary.
+
+**3. Defining the Dictionary's Boundaries**
+
+The scope of this dictionary was set with an awareness of existing resources. The author made decisions about which terms to include to limit overlap with other Oxford dictionaries, specifically the Oxford Dictionary of Literary Terms and the Oxford Dictionary of Philosophy. However, some terms are deliberately included even if covered elsewhere. This occurs when critical theory has either borrowed terms from other disciplines and used them in new or expanded ways, or when critical theory itself was the original source of a particular term.
+
+**4. Approach to Writing Entries**
+
+A key aim in writing the individual entries was to address the practical question: "what does a particular concept do?". To achieve this, the author sought to include examples of how the concept functions in practice. The goal was to be as comprehensive as possible within each entry, while simultaneously striving for simplicity and directness. The author hoped that any resulting loss of minor detail would be compensated by enhanced usability. The reasoning is that creating entries so dense that a reader would need another dictionary to understand them seemed pointless.
+
+The explicit hope is that this dictionary will serve as a "stimulating starting point" for readers, rather than being seen as the definitive endpoint of their inquiry. It's intended to facilitate initial exploration into the field.
+
+**5. Overview of Content (Examples from the Text)**
+
+The dictionary covers a wide range of terms essential to understanding critical theory. Here's a glimpse into the types of content included, based on the excerpts:
+
+- **Core Philosophical and Abstract Concepts:** Terms like **Abject** are defined as that which disrupts the self through feelings of disgust or loathing. **Essence** refers to the unique property that defines a thing. **Ontology** is the philosophical study of existence itself. Concepts like **Affect** are explained, sometimes distinguished from emotion, describing responses beyond voluntary control triggered by internal or external stimuli.
+- **Linguistic and Semiotic Tools:** The dictionary delves into how meaning works. Terms include **Denotation** and **Connotation**, explaining different layers of meaning in cultural objects. **Semiotics** itself, the general study of signs, is covered. Concepts like **Catachresis** (improper word use or applying a word where none exists) are explored. The **Semiotic Square** is introduced as a figure for mapping meaning and its production based on difference and negation.
+- **Key Thinkers and Their Ideas:** Many prominent figures in critical theory are featured.
+    - **Giorgio Agamben**, an Italian philosopher, is noted for his work on messianism and the concept of **bare life**, a form of life where the biological fact of existence overrides its possibilities and quality. He also discusses the concept of the **dispositif** (apparatus) as a heterogeneous network with a strategic function in power relations.
+    - **Theodor Adorno**, associated with the **Frankfurt School**, is mentioned alongside Max Horkheimer for their collaboration on _Dialectic of Enlightenment_. Adorno's _Negative Dialectics_ is noted for its anti-instrumentalist theme and a call to prevent the repetition of events like Auschwitz.
+    - **Mikhail Bakhtin**, a Russian linguist and critic, contributes concepts like **Carnivalesque** and **Dialogism**, focusing on the interplay of voices and genres in language and texts.
+    - **Judith Butler** is identified as a leading gender theorist. Her work, originating from her PhD, seeks to understand how social constructs like **gender** appear natural rather than historical. Concepts like **Performativity** and **Grievable Life** are key aspects of her work.
+    - **Gilles Deleuze** and **Félix Guattari** are presented as highly influential figures, known for complex concepts like **Assemblage** (a combination of material objects and discursive qualities), the **Axiomatic** (capitalism), **Rhizome**, and the **War Machine**. Deleuze also worked on the distinction between the **actual and the virtual** and **Control Societies**, predicting aspects of platform capitalism.
+    - **Jacques Derrida** is highlighted as the originator of **Deconstruction** and one of the most influential philosophers of the 20th century. His term **Différance** brings together the senses of 'to defer' and 'to differ', explaining the condition of the sign. Derrida's work is seen as a critique of Western **metaphysics**.
+    - **Michel Foucault** is a major figure whose work is represented by terms like **Archaeology** (a method of historical analysis focusing on conditions of knowledge), **Archive** (the limits of historical knowledge), **Discourse** (including power dynamics in language use), **Dispositif** (apparatus), **Episteme** (conditions of knowledge), **Biopower** (power over populations), **Governmentality** (the strategic exercise of specific types of power), and the **Panopticon** (a model of disciplinary power).
+    - **Fredric Jameson**, a Marxist cultural critic, is known for concepts like the **Political Unconscious**, which seeks to uncover the repressed social meanings in cultural texts. He also discusses his method as **Metacommentary**.
+    - **Jean-François Lyotard** is associated with defining **Postmodernism** as "incredulity towards what he called grand narratives". He also introduces the concept of the **Differend** to describe a situation where a wrong party cannot find the means to represent their position.
+    - **Pierre Bourdieu**, a French sociologist, developed key concepts like **Habitus** (embodied sensibility shaping disposition) and **Field** (a closed system of social relations).
+    - **Donna Haraway** is noted for her work on **cyborgs** and companion species, focusing on interfaces between human and animal studies and the militarization of information. Her concept of **Sympoiesis** ("making-with") emphasizes collective self-making.
+    - **Walter Benjamin** is mentioned for concepts like the **Constellation**, which helps perceive relations between objects and distinguishes ideas from concepts. He is also associated with **Jetztzeit** (now-time), a concept related to historical time.
+    - **Roland Barthes** is known for applying linguistic theories to wider cultural objects, discussing the **pleasure** and _jouissance_ derived from texts, and the distinction between **readerly and writerly texts**.
+- **Schools and Movements:** Definitions are provided for significant intellectual movements. The **Frankfurt School** is mentioned in relation to Adorno and Horkheimer. **Post-structuralism** is noted as a movement with a common distaste for metaphysical concepts like domination and system, though its supposed "amoral celebration of the death of the subject" is questioned. Other movements include **Russian Formalism** and **Structuralism**, from which critical theory often developed or against which it reacted. **Postcolonial Studies** is described as an interdisciplinary field examining the effects of colonization. **Queer Theory** is included, noted for works like Butler's _Gender Trouble_.
+- **Social and Political Concepts:** Terms relevant to understanding power, society, and politics are included. **Globalization** is defined as the increasing interconnectedness of the world. **Hegemony** is the dominance of one group over others. **Neoliberalism** is described as emphasizing the market and individual freedom. Concepts like **Empire**, as conceptualized by Hardt and Negri, represent a decentered apparatus of rule and are contrasted with the nation-state. They also propose the concept of the **Multitude** as a new political constituency capable of democracy. The **Public Sphere** is introduced as a space for critical debate on public issues.
+
+**6. Emphasis on Function and Action**
+
+Throughout the dictionary, the focus is on understanding what these concepts _do_. For instance, rather than just defining a term like "deconstruction," the entries explain how it functions in critical analysis. The inclusion of examples and connections between concepts (e.g., linking Assemblage to Foucault's work on prisons, or showing how Deleuze and Guattari adapt Hjelmslev for Assemblage) helps illustrate their practical application.
+
+**7. A Starting Point for Exploration**
+
+The dictionary is designed not as an exhaustive or final word on critical theory, but as a resource to kickstart readers' engagement. By providing clear, if sometimes simplified, explanations and showing concepts "in action," it aims to make a complex field more approachable. The hope is that it encourages further reading and deeper exploration of the many fascinating ideas within critical theory.
+
+In essence, "A Dictionary of Critical Theory" serves as a valuable initial guide, mapping out the key terms, thinkers, and debates that shape this dynamic and interdisciplinary field, helping readers move from unfamiliarity to a place where they can begin to explore its rich landscape themselves.

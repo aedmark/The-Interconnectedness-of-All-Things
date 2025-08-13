@@ -1,0 +1,54 @@
+One of the most influential ways of thinking about judgments comes from the philosopher Immanuel Kant, and the sources spend quite a bit of time exploring his ideas. Kant made a fundamental distinction between two main types of judgments: analytic and synthetic. Understanding this difference is really key to grasping what makes a synthetic judgment special.
+
+**So, What Exactly is a Synthetic Judgment?**
+
+At its core, a synthetic judgment is one where the predicate (the part of the sentence that says something _about_ the subject) adds something new to the concept of the subject. It's like adding new information or amplifying our understanding of the subject. The predicate isn't already secretly contained within the definition or concept of the subject.
+
+Think about Kant's classic example: "All bodies are heavy". When you have the concept of "body" in your mind, you might think of it as having extension (taking up space). But, according to Kant, the idea of being "heavy" (having weight) is _not_ automatically part of the concept of a body in general. So, when you say "All bodies are heavy," you are connecting two concepts ("body" and "heavy") where the second concept adds something that wasn't already included in the first. This is why it's called a synthetic judgment – it involves a "synthesis" or bringing together of distinct concepts.
+
+Contrast this with an **analytic judgment**. In an analytic judgment, the predicate _is_ already contained, even if hidden or confusedly, within the concept of the subject. These judgments don't expand our knowledge; they just clarify or break down a concept we already have. For example, "All bodies are extended" is an analytic judgment for Kant. The concept of "extension" is considered part and parcel of the very idea of what a "body" is. If you analyze the concept of a body, you'll find extension there.
+
+So, the big difference is that analytic judgments are about clarifying what's _already_ in a concept, while synthetic judgments are about adding something _new_ to a concept. Analytic judgments rely on the relationship of identity between the predicate and the subject concept, whereas synthetic judgments connect the predicate _to the object_ of the concept, and this connection is thought _without_ identity.
+
+**How are Synthetic Judgments Even Possible? The Need for a "Third Thing"**
+
+If the predicate in a synthetic judgment isn't contained within the subject concept, how do we connect them and know that the judgment is true? Kant explains that to judge synthetically about a concept, you need to go _beyond_ the concept itself. You need something else – a "third thing" – in which the synthesis of the two concepts can originate.
+
+For Kant, this "third thing" is typically connected to intuition or the conditions under which we can experience objects. Our representations are contained within a totality, which is our inner sense and its a priori form, time. The bringing together of representations (synthesis) rests on imagination, and its necessary unity relies on apperception (our self-awareness).
+
+When we talk about synthetic judgments related to experience, this third thing allows us to connect a concept to something in the empirical world. For example, saying "This table is brown" requires us to go beyond the concept "this table" and appeal to our empirical intuition (sight) of the table to determine its color. This is a **synthetic a posteriori** judgment because its truth is known based on experience.
+
+But Kant was particularly interested in **synthetic a priori** judgments. These are judgments where the predicate is not contained in the subject concept (synthetic), but whose truth is known _independently_ of experience (a priori). How can we add new information to a concept without relying on experience? This was a central problem for Kant's philosophical project.
+
+For synthetic a priori judgments, the "third thing" isn't a particular empirical intuition, but rather the formal conditions of a priori intuition (space and time), the synthesis of the imagination, and its necessary unity in transcendental apperception, all related to the possibility of experience in general. Kant argues that the conditions necessary for _possible experience_ are also the conditions for the possibility of _objects of experience_, and this is what gives synthetic a priori judgments objective validity.
+
+Mathematical judgments are a key example for Kant. A judgment like "The sum of the interior angles of a plane triangle equals two right angles" is synthetic because the concept of the sum of angles isn't contained within the mere concept of a triangle. But, according to Kant, we know this truth a priori, not by measuring actual triangles, but by constructing the triangle in pure intuition (our a priori understanding of space) and seeing that the construction necessarily has this property.
+
+For transcendental concepts like substance or causality, which designate the synthesis of empirical intuitions, synthetic judgments are possible, but they function more as principles of the synthesis of possible empirical intuitions rather than giving us an intuition directly. A transcendental proposition is a synthetic rational cognition _in accordance with mere concepts_, enabling the synthetic unity of empirical cognition, but without providing intuition a priori.
+
+Understanding how synthetic a priori judgments are possible was crucial for Kant because he believed they formed the basis of metaphysics. Without them, claims about reality independent of experience would lack justification.
+
+**Other Types and Contexts of Judgment**
+
+While Kant's distinction is central to the sources' discussion of synthetic judgments, the idea of "judgment" pops up in many other interesting ways, showing just how diverse this mental activity is!
+
+- **Moral Judgment:** Judging whether an action or person is good or bad, right or wrong, is a common type of judgment. This involves assessing things like harm, benefits, motives, character, and assigning blame. Some sources touch on different views of moral judgment, from Hume's idea that they stem from feeling or sentiment to the idea of "considered judgments" in Rawls' theory of justice, which are judgments made under favorable conditions for exercising one's sense of justice. Rawls' theory attempts to reduce reliance on mere intuitive moral judgments by structuring a method for arriving at principles of justice. Moral judgments can also involve complex emotional responses like gratitude, resentment, approbation, or indignation. Scanlon discusses moral criticism as a form of judgment concerning a person's "judgment-sensitive attitudes," calling for reconsideration.
+- **Aesthetic Judgment:** Judging the beauty or merit of art involves aesthetic judgment. Agosta notes that initially, taste (an aesthetic judgment) is made by feeling, not a concept, extending the meaning of "judgment" beyond cognitive tasks.
+- **Reflective vs. Determinant Judgment:** Kant also distinguished between determinant and reflective judgments. Determinant judgment applies a given universal rule to a particular case. Reflective judgment, on the other hand, starts with particulars and seeks to find a universal rule or concept for them. This is important for empirical concept formation and systematizing empirical laws.
+- **Psychology of Judgment:** Kahneman's work, referenced in the sources, explores the psychological processes behind judgments. He distinguishes between rapid, intuitive "System 1" judgments (basic assessments made with little effort) and more deliberate "System 2" judgments that involve attention and searching memory. Joint evaluation, which involves System 2, is seen as more likely to be stable than single evaluations based on System 1's emotional responses.
+- **Judgment in Logic:** Logicians traditionally looked at judgments in terms of their logical form, considering the relation of a predicate to a subject. Frege viewed judgments not just as the content judged (subject and predicate) but as the _act_ of judging itself – a movement from a thought to a truth-value. Judgments are also categorized by quantity (universal, singular) and modality (problematic, assertoric, apodictic).
+- **Jaina Philosophy (Syādvāda):** Indian philosophy, specifically the Jaina tradition, offers a contrasting perspective on judgment. Their theory, syādvāda, suggests that ordinary judgments are only relatively true, holding good for a particular aspect of an object and from a specific point of view (universe of discourse). They qualify judgments with 'somehow' (syāt) to emphasize this conditional or relative character. They even propose seven forms of judgment, including affirmative, negative, and compound forms like "somehow S is and also is not P". This differs from seeing judgments as simply absolutely true or false.
+
+Judgments are clearly a fundamental part of how we understand the world, ourselves, and each other. Whether they are analytic clarifications, synthetic expansions of knowledge, moral evaluations, aesthetic responses, or logical constructions, the act of judging is central to thinking itself.
+
+**Further Ideas and Questions to Explore:**
+
+This journey into synthetic judgments, guided by the sources, opens up many intriguing questions!
+
+- We've seen Kant's idea that synthetic a priori judgments are crucial for metaphysics. How do different philosophical traditions grapple with claims about reality that seem to go beyond what experience can tell us? Do they all rely on something like synthetic a priori judgments?
+- The Jaina view suggests judgments are relative to context and perspective. How does this idea resonate (or conflict) with the concept of universally valid synthetic a priori judgments in Kantian philosophy?
+- We touched on moral judgments. If, as Hume suggests, moral judgments are based on feeling, how does that affect their status? Can a judgment rooted in sentiment still be considered "synthetic" in the Kantian sense of adding to our knowledge, or does it operate in a different way entirely?
+- The sources briefly mention the psychological processes behind judgment. How do cognitive biases and the different modes of thinking (System 1 and System 2) influence our ability to make reliable synthetic judgments, whether empirical or a priori?
+- The problem of applying abstract concepts to concrete reality was highlighted as making a "transcendental doctrine of the power of judgment" necessary for Kant. How do different fields, from science to law to everyday life, deal with this challenge of applying general rules or concepts to specific instances?
+
+Thinking about these different facets of judgment, from Kantian epistemology to psychological processes and cross-cultural philosophical views, really highlights the complexity and importance of this seemingly simple act of the mind!

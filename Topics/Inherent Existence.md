@@ -1,0 +1,47 @@
+In philosophy, "inherent existence" refers to a concept of being that is independent, self-sufficient, and possesses its own intrinsic nature, not reliant on external factors or mental imputation. This concept is a central point of contention and discussion across various philosophical traditions.
+
+### Inherent Existence in Buddhist Philosophy (Nagarjuna)
+
+In Nagarjuna's _Seventy Stanzas_, "inherent existence" (Sanskrit: _svabhāva_, Tibetan: _rang bzhin_) designates an actual independent existential status that inheres in a phenomenon's very nature. This status is understood as not being imputed from a subjective perspective and not depending on any factors external to the object itself. It is considered the "essence" of a phenomenon, that which makes it _be_.
+
+However, Nagarjuna's _Seventy Stanzas_ primarily functions to refute the notion of inherent existence, asserting that "all phenomena are devoid of inherent existence". This "devoidness" or "emptiness" (śūnyatā) is a simple negation, implying that phenomena do not exist as they appear, with an independent nature. To say that something "does not exist" in this context is shorthand for "does not exist inherently" or "does not exist as it appears".
+
+Nagarjuna's refutation is based on the principle of dependent origination:
+
+- **Dependence on Causes and Conditions:** If phenomena had inherent existence, they would not depend on causes and conditions, and thus would exist independently throughout all three times (past, present, future). But this contradicts the observable fact that phenomena arise, endure, and cease, and are not permanent. For example, something that has already arisen cannot arise again, and something that has not arisen cannot arise if it has inherent existence because there's no basis for causal activity.
+- **Mutual Dependence:** The concept of inherent existence fails because things are mutually dependent. For instance, a definition cannot be established without the defined, and vice versa; therefore, both are devoid of inherent existence. Similarly, a cause and its result, or a perceiver and the perceived object, are mutually dependent and thus lack inherent existence.
+- **Imputation by Thought:** Phenomena come into existence with imputation, meaning that characteristics are imputed upon a basis of imputation. This basis is often "unfindable" under ultimate analysis, suggesting that phenomena exist merely through imputation by terms and concepts, not inherently.
+- **Avoidance of Extremes:** Asserting inherent existence leads to either an "eternalistic" view (phenomena are permanent) or an "annihilationist" view (phenomena completely disintegrate), both of which Nagarjuna rejects as extreme. The "middle view" of reality is that phenomena are dependently arisen and non-inherently existent.
+- **Impact on Suffering:** The purpose of understanding emptiness is to alleviate suffering by correcting the erroneous cognition that attributes inherent existence to phenomena.
+
+### Related Concepts in Western Philosophy
+
+While "inherent existence" as a specific term is prominent in Buddhist thought, Western philosophy explores similar concepts under different names, such as "essence," "substance," "being-in-itself," and the distinction between "essence" and "existence."
+
+**1. Essence and Existence:**
+
+- **Aristotle:** Discusses essence as "what something is" and "substantial reality," often linked to an individual's membership in a species. Substances, for Aristotle, include animals, plants, natural bodies, and can be either sensible or eternal. Essence is also the "form" or "cause" by which matter becomes a definite thing. Material substances have an origin and do not pop into existence from nothing.
+- **Aquinas:** Distinguishes between essence (what a thing is, its 'whatness' or 'quidditas') and existence (_esse_, the metaphysical act by which an essence exists) in creatures. For God, however, there is no distinction; infinite existence is its own essence, and infinite essence is its own existence. God is "pure actuality" and "Necessary Being," the reason for his own existence, providing the ultimate ground of being for finite creatures. Creatures reflect the divine nature because they are effects of God, who is the "first cause of being".
+- **Descartes:** In his metaphysics, the existence of "thinking substance" and "extended substance" is affirmed. He argues that when we clearly and distinctly understand something to belong to the true and immutable nature of a thing, it can be truly asserted of that thing. For God, necessary existence is contained in His concept, unlike contingent existence in other things. He considers the distinction between creation and preservation as conceptual only, implying God's continuous creative act to sustain existence. He states that to know the essence of something is to know what it is.
+- **Spinoza:** Defines "that which is self-caused" as that "of which the essence involves existence, or that of which the nature is only conceivable as existent". God, the "absolutely infinite being," is a substance whose essence involves existence. All things are in God and can only be conceived through God; they follow necessarily from the divine nature. The essence of things produced by God does not involve existence; God is the cause of their coming into and continuing in existence.
+- **Sartre:** Famous for the phrase "existence precedes essence" in the case of humans, meaning individuals first exist and then define themselves through their choices. However, for "being-in-itself" (the being of objects like a table or a tree), Sartre asserts that "being is what it is". Being-in-itself is uncreated, without reason for being, and "de trop" (superfluous). It is solid and self-consistent, possessing no "within" or "without". It is the condition of all revelation, but does not reveal itself; it simply "is".
+
+**2. Substance and Persistence:**
+
+- **Kant:** Discusses substance as the "persisting element" or "substratum of all change in the appearances". He notes that the proposition "substance persists" is tautological because persistence is the basis for applying the category of substance to appearances. He affirms the existence of "things in themselves" (noumena) as entities corresponding to sensible appearances, existing independently of our experience, though their nature is not fully knowable.
+- **Schopenhauer (Critique of Kant):** While accepting a modified form of Kant's experience-transcending reality, he disagrees with Kant's proof and categorization of the thing-in-itself as noumenal. He argues for a world that objectively exists prior to and independently of any representing subject.
+
+**3. The Self and Being:**
+
+- **Heidegger:** Introduces "Dasein" (human being) as an entity for which its "very Being, that Being is an issue for it". The "essence of Dasein lies in its existence," meaning it is not a substance with a fixed nature but "is its possibility" – constantly becoming. Dasein is "being-in-the-world," always interpreting and engaging with other entities, which gives rise to a unitary world. Understanding of Being is Dasein's foundation.
+- **Jaspers:** Introduces the concept of "The Encompassing" as Being that always makes its presence known but does not appear itself. "Existenz" (a mode of the Encompassing that we are) is the "dark ground of selfhood" and the condition for Transcendence to become real. Existenz is not an object of science but the axis for genuine meaning.
+- **Sartre (Being-for-itself):** Distinguishes "being-in-itself" (the solid, self-identical being of things) from "being-for-itself" (consciousness, which is its "own nothingness," having to be what it is not and not be what it is). Consciousness is a "revealed-revelation of existents" and implies a non-conscious, transphenomenal being. The "for-itself" exists in a state of "perpetual contingency" and "facticity," which is its unjustifiable presence in the world, making it "de trop" or there "for nothing".
+- **Levinas:** Critiques Heidegger's Dasein for not going far enough in distinguishing Being from beings. He posits the "il y a" (there is) as an impersonal, ambiguous presence of existence itself, "free from all reference to existents," encountered as overwhelming and independent. The "existent" must "take up" its existence through effort, a "contract" with existence that brings weight and responsibility. True transcendence is a radical rupture in Being, not a return to the self.
+- **Jung:** Refers to archetypes as "a priori" forms that preform and influence thoughts, feelings, and actions. Archetypes are "empty and purely formal," a "possibility of representation" given a priori, which are filled out by conscious experience.
+
+**4. Intrinsic Value and Dignity:**
+
+- **Todd May:** Proposes that the intrinsic value of human beings, which gives them dignity, is their capacity "to engage in projects and relationships that unfold over time," to be aware of death, and to have basic biological and psychological needs.
+- **Catholic Tradition:** Views all beings as having intrinsic value by virtue of being products of Creation.
+
+In summary, while Nagarjuna dismantles the concept of inherent existence through the lens of dependent origination and emptiness, Western philosophers grapple with similar ideas of intrinsic, self-sufficient being through concepts like essence, substance, and the nature of God, each offering distinct perspectives on how existence is constituted and understood.

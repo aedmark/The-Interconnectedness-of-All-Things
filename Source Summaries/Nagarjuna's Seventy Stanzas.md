@@ -1,0 +1,33 @@
+Nagarjuna's _Seventy Stanzas_ (Sanskrit: _Śūnyatāsaptatikārikānāma_, Tibetan: _sTong pa nyid bdun cu pa'i tshig le'ur byas pa_) is a pivotal philosophical treatise within the Buddhist tradition, particularly influential in Mahayana philosophy. It is considered one of Nagarjuna's fundamental works, and its primary purpose is to expound on the concept of emptiness (śūnyatā), aiming to alleviate suffering by clarifying erroneous cognition.
+
+### Authorship and Authenticity
+
+Nagarjuna, believed to have lived in the second century CE, is widely regarded as the "father of philosophical Mahayana". However, details of his life are largely legendary, and later Tantric figures named Nagarjuna have merged with the philosophical one in historical consciousness. Determining the authentic works of the second-century Nagarjuna is a significant challenge. The most discriminating Tibetan authorities and many modern scholars generally accept as authentic only those works whose style and content closely align with his _Mūlamadhyamakakārikā_ (Mula), effectively defining Nagarjuna as the author of the Mula. The _Seventy Stanzas_ is among the works consistently attributed to Nagarjuna by Tibetan scholars like Bu ston and Atiśa, often alongside other key Madhyamika treatises such as _Yuktishashṭikā_ and _Vigrahavyāvartanī_. Tsongkhapa noted that the _Seventy Stanzas_ was written in response to an objection concerning Chapter Seven of the Mula.
+
+There is also debate surrounding the "autocommentary" to the _Seventy Stanzas_ (titled _Śūnyatāsaptativṛtti_ in Peking Edition #5231), which is attributed to Nagarjuna himself. Similar to the "autocommentary" to the Mula (Akutobhaya), scholarly opinion often refutes the attribution of authorship to Nagarjuna for these commentaries, suggesting they may have been written by others, possibly postdating Candrakīrti.
+
+### Core Philosophical Content: Emptiness and Dependent Origination
+
+The central theme of the _Seventy Stanzas_ is that "all phenomena are devoid of inherent existence" (svabhāva / rang bzhin), meaning they do not possess an independent, self-existent nature. This concept is presented as the antidote to ignorance, which Nagarjuna identifies as the root cause of suffering. The treatise elaborates on how specific phenomena, particularly those of concern to Buddhists, are empty of inherent existence because their existence is not found in causes, conditions, aggregations, or individualities. Nagarjuna asserts that phenomena are dependently arisen and non-inherently existent; they are "full of non-inherent existence" and appear to us as being full of our imputations. This view avoids both nihilism (by asserting dependent arising) and eternalism (by asserting emptiness of inherent existence), thus revealing the "middle view" or "middle way" of reality.
+
+Key points of Nagarjuna's discourse in the _Seventy Stanzas_ include:
+
+- **Deceptive Appearance of Phenomena:** All phenomena, which conventionally exist, have a deceptive appearance, merely existing through imputation by thought.
+- **Relationship of Defined and Definition:** Without depending on the defined, a definition cannot be established, and vice versa; thus, both are devoid of inherent existence as they arise interdependently.
+- **Four Noble Truths:** The text restates the Four Noble Truths, explaining that suffering (the twelve limbs of dependent origination) arises from ignorant grasping, and suffering ceases when grasping ceases, with "seeing reality" being the path.
+- **Metaphors for Reality:** Produced phenomena are likened to illusions, dreams, a village of gandharvas, a hair net in the eyes, foam, a bubble, and a circle of light from a whirling firebrand, all indicating their conventional, non-inherent existence. These vivid images are used to contrast the mind's essential purity with its pollutants, akin to how butter is revealed from churned milk or a gem from rock.
+- **Purpose of Reasoning:** Logical exposition, such as that employed in the _Seventy Stanzas_, is crucial for developing an "unmistaken mind." Reasoning about the subtle nature of an object (its lack of inherent existence) is a necessary preliminary step before one can directly perceive this subtle nature.
+
+The ultimate goal is liberation, or Nirvāṇa, which is attained when the mind's afflictions and their seeds are completely eliminated. This state is characterized by perfect peace, beyond worldly pleasures and pains, and cannot be described in ordinary terms. The _Seventy Stanzas_ implies that compassion can be developed through this understanding.
+
+### Transmission and Commentaries
+
+The _Seventy Stanzas_ is extant only in Tibetan, with only one karika (stanza) surviving in Sanskrit and a few in Chinese translations, suggesting its loss from the Chinese canon. It was first translated into Tibetan during the Imperial period (late 8th to early 9th century CE) and survived the persecution of Buddhists in the 9th century. During the "second introduction" of Buddhism to Tibet (around the 11th century), the _Seventy Stanzas_ gained renewed interest, particularly through the influence of Atiśa, who recommended it for proving the emptiness of inherent existence.
+
+Three main commentaries on the _Seventy Stanzas_ are found in the Tibetan canon (_bsTan 'gyur_):
+
+1. **The "Autocommentary" (_Śūnyatāsaptativṛtti_):** Attributed to Nagarjuna, its Tibetan translation predates the other two commentaries. However, its authenticity as Nagarjuna's own work is debated, and its version of the root verses differs from those in other commentaries.
+2. **Candrakīrti's Commentary (_Śūnyatāsaptativṛtti_):** A longer and influential work. This commentary, along with Parahita's, represents a separate transmission of the _Seventy Stanzas_. Contemporary Tibetan tradition, especially the Gelug school, often follows Candrakīrti's interpretation of Nagarjuna.
+3. **Parahita's Commentary (_Śūnyatāsaptativivṛtti_):** Also translated during the second introduction, likely between 1042 and 1045 CE.
+
+The different versions of the root verses in these commentaries pose philological and historical problems, with no definitive consensus on which translation or commentary is most accurate to the lost Sanskrit original. David Ross Komito's work, _Nagarjuna's Seventy Stanzas: A Buddhist Psychology of Emptiness_, aims to make Nagarjuna's thought meaningful to modern readers by framing it within a Buddhist psychology, drawing heavily on the Prasangika view of Candrakīrti and the oral tradition of Geshe Sonam Rinchen.
