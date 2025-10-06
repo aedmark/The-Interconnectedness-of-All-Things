@@ -1,5 +1,3 @@
-# Altered States
-
 While the term "altered states" might sound very modern, the core idea – that there are ways of experiencing reality, the self, or consciousness that differ significantly from our usual waking state – has deep roots in philosophical traditions across the globe. It's not always about dramatic trances; sometimes, it's about fundamental shifts in perspective or accessing deeper layers of the mind.
 
 You might find that the approaches and goals associated with these states vary quite a bit between East and West, although there are some surprising parallels and even historical connections.
